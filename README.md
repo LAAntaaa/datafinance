@@ -27,6 +27,4 @@ L'analyse comprend le calcul d'indicateurs de performance (rendement annualisé,
 
 ---
 
-## Installation
-1. **Cloner le dépôt GitHub**
-2. 
+
